@@ -5,10 +5,14 @@
 console.log(typeof(answer)); */ 
 
 
-const answers = [];
+ const answers = [];
 
-answers[0] = prompt("Как вас зовут?", "");
+/* answers[0] = prompt("Как вас зовут?", "");
 answers[1] = prompt("Какая у вас фамилия?", "");
 answers[2] = prompt("Сколько вам лет?", "");
 
-document.write(answers);
+document.write(answers); */
+
+console.log(typeof(answers));
+
+
