@@ -13,6 +13,6 @@ answers[2] = prompt("Сколько вам лет?", "");
 
 document.write(answers); */
 
-console.log(typeof(answers));
+console.log(answers);
 
 
